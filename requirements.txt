@@ -1,0 +1,12 @@
+psutil
+time
+os
+socket
+threading
+queue
+influxdb_client
+influxdb_client.client.write_api import SYNCHRONOUS
+logging
+smtplib
+email.mime.text
+MIMEText
